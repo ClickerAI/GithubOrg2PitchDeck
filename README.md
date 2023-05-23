@@ -7,6 +7,12 @@ reads Github Orgaanization, creates slides about it's team, overall mission, oth
 reads Github Repo and creates impressive PDF slide out of it using Stable Diffusion/Floyd models/ChatGPT generated text via template
 
 
+## Landing page
+
+regurgitate promo ideas extracted from repos into the map repo-> list of promo ideas. 
+
+display various promo ideas, collect feedback
+
 <img width="634" alt="Screenshot 2023-05-23 at 9 33 32 AM" src="https://github.com/ClickerAI/GithubOrg2PitchDeck/assets/309302/f05e8390-05a2-4d6a-abc8-97ad242a5f22">
 
 
