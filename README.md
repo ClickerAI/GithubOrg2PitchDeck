@@ -2,7 +2,7 @@
 
 reads Github Orgaanization, creates slides about it's team, overall mission, other questions that are asked in the forms of the investors, then appends per repo slides
 
-## GithubRepo2Pitch slide
+## GithubRepo2Pitch slidehttps://aws.amazon.com/activate/providers/
 
 reads Github Repo and creates impressive PDF slide out of it using Stable Diffusion/Floyd models/ChatGPT generated text via template
 
@@ -21,3 +21,6 @@ display various promo ideas, collect feedback
 
 
 first target https://heartfelt.capital/pitch
+
+
+https://aws.amazon.com/activate/providers/
